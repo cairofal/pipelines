@@ -1,3 +1,5 @@
+#Created by Cairo Faleiros 
+
 from sklearn.pipeline import Pipeline  # type: ignore
 from pandas import read_csv, read_excel, read_json
 
